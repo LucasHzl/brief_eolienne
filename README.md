@@ -29,7 +29,7 @@ GitHub (CSV) → Bronze → Silver → Gold → Semantic Model → Power BI
 
 ## 🚀 Statut
 
-🔨 **En cours de développement**
+Realised
 
 ---
 
